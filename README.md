@@ -38,3 +38,5 @@ Learning should be fun, and DynamicQuiz incorporates gamification elements to ke
 DynamicQuiz is committed to accessibility, providing features such as adjustable text sizes, screen reader compatibility, and language options. Our aim is to make learning an inclusive experience for everyone.
 
 In conclusion, DynamicQuiz is not just a quiz app; it's a dynamic and engaging learning tool that harnesses the power of JavaScript to make education accessible, enjoyable, and effective. Whether you're a student looking to reinforce your studies or a lifelong learner eager to expand your knowledge, DynamicQuiz is here to make your learning journey interactive, personalized, and rewarding. Embark on a knowledge-filled adventure with DynamicQuiz today!
+<hr>
+<h2>Read more articles - https://medium.com/@biswaljeebanjyoti999/elevate-your-learning-journey-crafting-a-javascript-quiz-app-for-interactive-education-15593073e3f4</h2>
